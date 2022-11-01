@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chrislujo
-- 👔 Currently a Sofware Engineer II at Walmart Inc. 
+- 👔 Currently a Sofware Engineer II at Walmart Global Tech. 
 - 👀 I’m interested in Front-end Development with a passion for React
 - 💞️ I’m looking to collaborate on more React projects. 
 - 📫 Looking for new opportunities 
